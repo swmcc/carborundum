@@ -6,6 +6,8 @@ The box is based on a centos 6.3 box. Heavily influnced by [Barry Gordons](https
 
 It aims to provide only the absolute bare essentials to get someone working on a Rails project on any Vagrant-supported platform.
 
+![Bastards](http://f.cl.ly/items/1x23303D2n0n2t3p0m1e/illegitimi_non_carborundum_keepsake_box.jpg "Bastards")
+
 ### What you get:
 
 The box is based on the  
